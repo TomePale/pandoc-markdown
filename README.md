@@ -4,7 +4,10 @@ Ova dokumentacija služi u svrhu primjene Pandoc-a za konverziju datoteka, odnos
 1. 🍄‍🟫 [Uvod u Pandoc](docs/02-pandoc-primjeri-konverzije.md)
 2. 🐌 [Uvod u Markdown](docs/01-markdown-primjeri.md)
 
-<img src="tux.png" alt="Tux" width="25%">
+<img src="tux.png" alt="Tux" width="10%">
 
-Resursi i više informacija: [resources.md](docs/resources.md)
-Web stranica: [Pandoc-Markdown](https://tomepale.github.io/pandoc-markdown/)
+<!-- make it smaller -->
+
+
+<small>Resursi i više informacija: [resources.md](docs/resources.md)</small>
+<small>Web stranica: [Pandoc-Markdown](https://tomepale.github.io/pandoc-markdown/)</small>

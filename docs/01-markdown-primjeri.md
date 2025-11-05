@@ -166,5 +166,4 @@ Koristi se `---`, `***` ili `___`:
 - [x] Testirati konverziju u PDF
 - [x] Objaviti projekt
 
----
 

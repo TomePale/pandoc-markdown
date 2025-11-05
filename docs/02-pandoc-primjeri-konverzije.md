@@ -94,6 +94,5 @@ pandoc input.md -o output.html --variable lang=hr
 
 **Objašnjenje:** Postavlja prilagođene varijable (npr. jezik dokumenta) koje se koriste u predlošcima.
 
----
 
 

@@ -5,3 +5,6 @@ Ova dokumentacija služi u svrhu primjene Pandoc-a za konverziju datoteka, odnos
 2. 🐌 [Uvod u Markdown](docs/01-markdown-primjeri.md)
 
 <img src="tux.png" alt="Tux" width="25%">
+
+Resursi i više informacija: [resources.md](docs/resources.md)
+Web stranica: [Pandoc-Markdown](https://tomepale.github.io/pandoc-markdown/)

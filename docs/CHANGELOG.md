@@ -1,4 +1,9 @@
 # Changelog za Pandoc i Markdown
+- [v0.3] - 5. studenoga 2025.
+  - Ispravljene manje greške u `01-markdown-primjeri.md` i `02-pandoc-primjeri-konverzije.md`
+  - Ažurirani linkovi u `resources.md` za najnovije verzije alata
+  - Dodani primjeri korištenja Pandoc filtera u `02-pandoc-primjeri-konverzije.md`
+  - Poboljšana struktura i formatiranje u svim dokumentima za bolju čitljivost
 - [v0.2] - 5. studenoga 2025.
   - Dodana dokumentacija u `01-markdown-primjeri.md`:
     - Primjeri naslova (H1-H6)

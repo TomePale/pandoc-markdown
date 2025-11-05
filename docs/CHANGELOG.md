@@ -1,9 +1,32 @@
 # Changelog za Pandoc i Markdown
-- [v0.2] - 2. studenoga 2025.
-  - ...
+- [v0.2] - 5. studenoga 2025.
+  - Dodana dokumentacija u `01-markdown-primjeri.md`:
+    - Primjeri naslova (H1-H6)
+    - Nenumerirane, numerirane i mješovite liste
+    - Tablice s primjerima i poravnanjem
+    - Umetnuta slika iz static direktorija
+    - Code blokovi za bash i JavaScript
+    - Poveznice na vanjske izvore (GitHub Docs, Pandoc)
+    - Dodatni elementi: bold, italic, citati, task list
+  - Dodani opsežni primjeri konverzije u `02-pandoc-primjeri-konverzije.md`:
+    - Markdown → HTML (osnovni, s CSS-om, standalone)
+    - Markdown → PDF (s metapodacima, sadržajem, brojevima stranica)
+    - Markdown → DOCX (osnovni, s predloškom, sa sadržajem)
+    - Dodatne opcije: spajanje datoteka, specificiranje formata
+    - Napredni primjeri: Slidy prezentacije, EPUB, LaTeX
+    - Savjeti za upotrebu i link na dokumentaciju
+  - Kreiran `resources.md` s korisnim linkovima:
+    - Službena dokumentacija (Markdown, Pandoc)
+    - Interaktivni alati
+    - Tutoriali i vodiči
+    - Alati za konverziju i editori
+    - Video tutoriali
+  - Dodani YAML metapodaci u sve glavne dokumente:
+    - `title`, `author`, `date`, `lang` u vrhu Markdown datoteka
+    - Omogućava bolju konverziju s Pandocom (automatski naslovi, autor, datum)
 - [v0.1] - 30. listopada 2025.
-  - npr. Inicijalna verzija strukture repozitorija 
-  - Dodani predlošci u docs/ 
+  - npr. Inicijalna verzija strukture repozitorija
+  - Dodani predlošci u docs/
   - Dodan README
-  - LICENSE 
-  - početni CHANGELOG)
+  - LICENSE
+  - početni CHANGELOG

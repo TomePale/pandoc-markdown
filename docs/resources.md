@@ -25,7 +25,7 @@ Ovaj dokument sadrži popis korisnih linkova i resursa za učenje Markdowna i Pa
 
 ## Interaktivni alati
 
-- [Dillinger](https://dillinger.io/) - Online Markdown editor s live preview
+- [HackMD](https://hackmd.io/) - Online Markdown editor s live preview
 - [StackEdit](https://stackedit.io/) - Markdown editor u pregledniku s sync mogućnostima
 - [Markdown Live Preview](https://markdownlivepreview.com/) - Brz online pregled Markdown sintakse
 - [Pandoc Playground](https://pandoc.org/try/) - Isprobajte Pandoc konverzije online
